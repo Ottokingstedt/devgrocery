@@ -1,0 +1,14 @@
+2022-09-29T11:05:09+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:05:51+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:05:58+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:06:12+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:06:27+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:06:34+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
+2022-09-29T11:07:48+00:00 CRITICAL Cannot redeclare register_nav_menu() (previously declared in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-includes/nav-menu.php:136) in /Applications/MAMP/htdocs/woocommerce-gruppTio/wp-content/themes/devgrocery/functions.php on line 202
+
