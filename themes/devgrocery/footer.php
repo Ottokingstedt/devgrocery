@@ -8,13 +8,12 @@
  *
  * @package devgrocery
  */
-
 ?>
 
 	<footer id="colophon" class="site-footer">
 	</footer><!-- #colophon -->
 </div><!-- #page -->
-
+Hejhej
 <?php wp_footer(); ?>
 
 </body>
